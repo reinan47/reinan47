@@ -55,12 +55,12 @@
 ---
 
 <div align="center">
+  <a><img height="160em" src="https://streak-stats.demolab.com?user=reinan47&theme=dark"/><a>
   <a href="https://github.com/reinan47">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reinan47&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&custom_title=Reinan%20de%20Jesus%20Santos'%20Github%20Stats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinan47&layout=compact&langs_count=10&theme=transparent&text_color=ffffff&cache_seconds=10001"/>
   </a>
 </div>
- 
 <br>
  
 <div align="center">
