@@ -51,25 +51,25 @@
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds.
 - 🔭 I’m currently learning <b>Artificial Intelligence</b>
 - :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/ModernSchool">ModernSchool</a>
-
-  ---
+---
   ```js
-  import Desenvolvedor from 'reinan47';
-
-  class SobreMim extends Desenvolvedor {
-    nome     = 'Reinan de Jesus Santos';
-    area    = 'Conhecendo várias áreas';
-    universidade = 'Universidade Federal de Sergipe(UFS)';
-    trabalho  = 'Atualmente desenvolvedor Junior da ItaTECH(UFS)';
-    local = 'Itabaiana/SE';
-  }
-
-  class Skills extends Desenvolvedor {
-    linguagens  = ['C#,Java,C',Dart];
-    aprendendo = ['Flutter,JavaScript']
-    frameworks = ['.NET'];
-  }
-  ```
+ import Desenvolvedor from 'reinan47';
+ 
+ class SobreMim extends Desenvolvedor {
+ 
+      nome = 'Reinan de Jesus Santos';
+      area = 'Conhecendo várias áreas';
+      universidade = 'Universidade Federal de Sergipe(UFS)';
+      trabalho = 'Atualmente desenvolvedor Junior da ItaTECH(UFS)';
+      local = 'Itabaiana/SE';
+ }
+ class Skills extends Desenvolvedor {
+ 
+      linguagens = ['C#,Java,C,Dart'];
+      aprendendo = ['Flutter,JavaScript']
+      frameworks = ['.NET'];
+ }
+ ```
 
 
 
