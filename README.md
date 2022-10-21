@@ -52,15 +52,53 @@
 - 🔭 I’m currently learning <b>Artificial Intelligence</b>
 - :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/ModernSchool">ModernSchool</a>
 
----
+  ---
+  ```js
+  import Desenvolvedor from 'reinan47';
 
-<div align="center">
-  <a><img height="160em" src="https://streak-stats.demolab.com?user=reinan47&theme=dark"/><a>
-  <a href="https://github.com/reinan47">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reinan47&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&custom_title=Reinan%20de%20Jesus%20Santos'%20Github%20Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinan47&layout=compact&langs_count=10&theme=transparent&text_color=ffffff&cache_seconds=10001"/>
-  </a>
-</div>
+  class SobreMim extends Desenvolvedor {
+    nome     = 'Reinan de Jesus Santos';
+    area    = 'Conhecendo várias áreas';
+    universidade = 'Universidade Federal de Sergipe(UFS)';
+    trabalho  = 'Atualmente desenvolvedor Junior da ItaTECH(UFS)';
+    local = 'Itabaiana/SE';
+  }
+
+  class Skills extends Desenvolvedor {
+    linguagens  = ['C#,Java,C',Dart];
+    aprendendo = ['Flutter,JavaScript']
+    frameworks = ['.NET'];
+  }
+  ```
+
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=reinan47&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=reinan47&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| ------------- | ------------- |
+
+<!-- ------------------------------- -->
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinan47&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reinan47&layout=compact&langs_count=7&theme=dracula&text_color=ffffff&cache_seconds=10001") |
+| ------------- | ------------- |
+
+
+<p align="center">
+  <a href="https://mail.google.com/mail/reinanzinho100" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+
+  <!--a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a-->
+
+  <a href="https://api.whatsapp.com/send?phone=5579998025079&text=Reinan%20de%20Jesus%20Santos" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
+
+  <a href="https://www.facebook.com/reinan.dejesus.12/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
+
+  <a href="https://www.instagram.com/reinan_santos_47/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+</p> 
+
+  
 <br>
  
 <div align="center">
