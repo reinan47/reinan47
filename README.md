@@ -80,6 +80,8 @@
 |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinan47&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reinan47&layout=compact&langs_count=7&theme=dracula&text_color=ffffff&cache_seconds=10001") |
 | ------------- | ------------- |
 
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=reinan47&theme=react-dark&hide_border=true&area=true)
 ![snake gif](https://github.com/reinan47/reinan47/blob/output/github-contribution-grid-snake.svg)  
 
 <p align="center">
