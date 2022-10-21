@@ -80,6 +80,7 @@
 |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinan47&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reinan47&layout=compact&langs_count=7&theme=dracula&text_color=ffffff&cache_seconds=10001") |
 | ------------- | ------------- |
 
+![snake gif](https://github.com/reinan47/reinan47/blob/output/github-contribution-grid-snake.svg)  
 
 <p align="center">
   <a href="https://mail.google.com/mail/reinanzinho100" alt="Gmail">
@@ -98,7 +99,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 </p> 
 
-  
 <br>
  
 <div align="center">
