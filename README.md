@@ -70,7 +70,7 @@
       frameworks = ['.NET'];
  }
  ```
-
+---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=reinan47&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=reinan47&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
@@ -85,7 +85,7 @@
 ![snake gif](https://github.com/reinan47/reinan47/blob/output/github-contribution-grid-snake.svg)  
 | ----------------------------- |
 
-
+---
 <p align="center">
   <a href="https://mail.google.com/mail/reinanzinho100" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
