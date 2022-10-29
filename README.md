@@ -44,9 +44,11 @@
 </td></tr></table>  
 <br/>  
 -->
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Reinan%20de%20Jesus%20Santos&fontAlignY=40&color=gradient)
 <div align="center">
   <h2>Welcome to my HUB</h2>
 </div>
+
 
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds.
 - 🔭 I’m currently learning <b>Artificial Intelligence</b>
