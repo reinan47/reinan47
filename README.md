@@ -44,11 +44,9 @@
 </td></tr></table>  
 <br/>  
 -->
-<div align="center">
-  <h2>Welcome to my HUB</h2>
-</div>
 
-
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Reinan%20de%20Jesus%20Santos&fontAlignY=40&color=gradient)
+---
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds.
 - 🔭 I’m currently learning <b>Artificial Intelligence</b>
 - :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/ModernSchool">ModernSchool</a>
@@ -73,7 +71,6 @@
  }
  ```
 ---
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Reinan%20de%20Jesus%20Santos&fontAlignY=40&color=gradient)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=reinan47&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=reinan47&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
