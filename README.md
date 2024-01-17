@@ -65,11 +65,11 @@
  }
  class Skills extends Desenvolvedor {
  
-      linguagens = ['C#,Java,C,Dart',JavaScript,];
-      bancoDeDados = [Oracle,SQLServer,MySQL];
+      linguagens = ['C#,Java,C,Dart','JavaScript'];
+      bancoDeDados = ['Oracle','SQLServer','MySQL'];
       aprendendo = ['Flutter'];
-      frameworks = ['.NET',Spring Boot];
-      metodologias = [Scrum,Kanban];
+      frameworks = ['.NET','Spring Boot'];
+      metodologias = ['Scrum','Kanban'];
  }
  ```
 ---
