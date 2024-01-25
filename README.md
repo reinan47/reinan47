@@ -58,10 +58,9 @@
  class SobreMim extends Desenvolvedor {
  
       nome = 'Reinan de Jesus Santos';
-      area = 'Conhecendo várias áreas';
+      area = 'Desenvolvedor java';
       universidade = 'Universidade Federal de Sergipe(UFS)';
-      trabalho = 'Atualmente desenvolvedor Pleno na empresa' + 
-                'SergipeTec';
+      trabalho = 'Atualmente desenvolvedor Pleno na empresa SergipeTec';
       local = 'Itabaiana/SE';
  }
  class Skills extends Desenvolvedor {
