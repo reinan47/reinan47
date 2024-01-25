@@ -57,10 +57,10 @@
  
  class SobreMim extends Desenvolvedor {
  
-      nome = 'Reinan de Jesus Santos';
-      area = 'Desenvolvedor java';
-      universidade = 'Universidade Federal de Sergipe(UFS)';
-      trabalho = 'Atualmente desenvolvedor Pleno na empresa SergipeTec';
+      nome = 'Reinan_de_Jesus_Santos';
+      area = 'Desenvolvedor_java';
+      universidade = 'Universidade_Federal_de_Sergipe(UFS)';
+      trabalho = 'Desenvolvedor_Pleno_na_empresa_SergipeTec';
       local = 'Itabaiana/SE';
  }
  class Skills extends Desenvolvedor {
@@ -68,7 +68,7 @@
       linguagens = ['C#,Java,C,Dart','JavaScript'];
       bancoDeDados = ['Oracle','SQLServer','MySQL'];
       aprendendo = ['Flutter'];
-      frameworks = ['.NET','Spring Boot'];
+      frameworks = ['.NET','Spring_Boot'];
       metodologias = ['Scrum','Kanban'];
  }
  ```
