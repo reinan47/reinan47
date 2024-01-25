@@ -60,7 +60,8 @@
       nome = 'Reinan de Jesus Santos';
       area = 'Conhecendo várias áreas';
       universidade = 'Universidade Federal de Sergipe(UFS)';
-      trabalho = 'Atualmente desenvolvedor Junior da ItaTECH(UFS)';
+      trabalho = 'Atualmente desenvolvedor Pleno na empresa' + 
+                'SergipeTec';
       local = 'Itabaiana/SE';
  }
  class Skills extends Desenvolvedor {
