@@ -56,7 +56,6 @@
  import Desenvolvedor from 'reinan47';
  
  class SobreMim extends Desenvolvedor {
- 
       nome = 'Reinan_de_Jesus_Santos';
       area = 'Desenvolvedor_software';
       universidade = 'Universidade_Federal_de_Sergipe(UFS)';
@@ -65,8 +64,8 @@
       trabalho = 'Desenvolvedor_Pleno_na_empresa_SergipeTec';
       local = 'Itabaiana/SE';
  }
+
  class Skills extends Desenvolvedor {
- 
       linguagens = ['C#,Java,C,Dart','JavaScript'];
       bancoDeDados = ['Oracle','SQLServer','MySQL'];
       aprendendo = ['Flutter'];
