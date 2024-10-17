@@ -58,8 +58,10 @@
  class SobreMim extends Desenvolvedor {
  
       nome = 'Reinan_de_Jesus_Santos';
-      area = 'Desenvolvedor_java';
+      area = 'Desenvolvedor_software';
       universidade = 'Universidade_Federal_de_Sergipe(UFS)';
+      formacao = 'Bacharel_em_Sistemas_de_Informacao';
+      dataFormacao = '06/05/2024'
       trabalho = 'Desenvolvedor_Pleno_na_empresa_SergipeTec';
       local = 'Itabaiana/SE';
  }
